@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      peterpro
 HostName                       kook.seas.upenn.edu
-ProcessIdentifier              5487
-ProcessCreationTime_UTC        1745721130
-ProcessCreationTime_Readable   Sat Apr 26 22:32:10 2025 EDT
+ProcessIdentifier              31069
+ProcessCreationTime_UTC        1745723636
+ProcessCreationTime_Readable   Sat Apr 26 23:13:56 2025 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /mnt/castor/seas_home/p/peterpro/cadenceGPDK/ESE6800-SRAM/ESE6800/SNM#2dread#2d8T/schematic/sch.oa.cdslck
-TimeEditLocked                 Sat Apr 26 22:58:33 2025 EDT
+FilePathUsedToEditLock         /mnt/castor/seas_home/p/peterpro/cadenceGPDK/ESE6800-SRAM/ESE6800/SRAM_array_8by8_10T/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Apr 26 23:14:41 2025 EDT
